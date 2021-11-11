@@ -88,6 +88,8 @@ github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210818082507-cd58
 github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210818082507-cd5818d01bfd/go.mod h1:anL64VSLRELLIJNuZfrR0mnvjhcW9VXhQPLBkz0Yz64=
 github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210917042541-11edd7562d57 h1:H2YDF5dRlVqUuvej7ewpTiht7FOjZ55NTPJX4+IBP6k=
 github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210917042541-11edd7562d57/go.mod h1:anL64VSLRELLIJNuZfrR0mnvjhcW9VXhQPLBkz0Yz64=
+github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20211111064140-351b46a88e6c h1:JqFl1/bvxj2Phtp+nZlCrUPr6aAQry+9RCZhI/GUU1I=
+github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20211111064140-351b46a88e6c/go.mod h1:anL64VSLRELLIJNuZfrR0mnvjhcW9VXhQPLBkz0Yz64=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
 github.com/VictoriaMetrics/fastcache v1.5.7 h1:4y6y0G8PRzszQUYIQHHssv/jgPHAb5qQuuDNdCbyAgw=
@@ -140,6 +142,8 @@ github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792/go.mod h1:ghJtE
 github.com/btcsuite/winsvc v1.0.0/go.mod h1:jsenWakMcC0zFBFurPLEAyrnc/teJEM1O46fmI40EZs=
 github.com/c-bata/go-prompt v0.2.2/go.mod h1:VzqtzE2ksDBcdln8G7mk2RX9QyGjH+OVqOCSiVIqS34=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
+github.com/centrifuge/go-substrate-rpc-client/v3 v3.0.2 h1:SQNaOeTmW2y2fmJgR5a7KIozjaOYi34GxafQ4efGc5U=
+github.com/centrifuge/go-substrate-rpc-client/v3 v3.0.2/go.mod h1:ZYSX8OuIJgZ9aVdKLhIi1G4Rj42Ys4nZNsWW70yfCJc=
 github.com/cespare/cp v0.1.0 h1:SE+dxFebS7Iik5LK0tsi1k9ZCxEaFX4AjQmoyA+1dJk=
 github.com/cespare/cp v0.1.0/go.mod h1:SOGHArjBr4JWaSDEVpWpo/hNg6RoKrls6Oh40hiwW+s=
 github.com/cespare/xxhash v1.1.0 h1:a6HrQnmkObjyL+Gs60czilIUGqrzKutQD6XZog3p+ko=
@@ -202,6 +206,7 @@ github.com/ethereum/go-ethereum v1.10.2 h1:qRDI7ztIBsAFH0ULVjU+twnRUYV2ApT0XJBdx
 github.com/ethereum/go-ethereum v1.10.2/go.mod h1:YmSRTZNqAvVUg3BIG8uhT/BOkFk9+R2iCbxw5zOlnWY=
 github.com/ethereum/go-ethereum v1.10.3 h1:SEYOYARvbWnoDl1hOSks3ZJQpRiiRJe8ubaQGJQwq0s=
 github.com/ethereum/go-ethereum v1.10.3/go.mod h1:99onQmSd1GRGOziyGldI41YQb7EESX3Q4H41IfJgIQQ=
+github.com/ethereum/go-ethereum v1.10.4/go.mod h1:nEE0TP5MtxGzOMd7egIrbPJMQBnhVU3ELNxhBglIzhg=
 github.com/ethereum/go-ethereum v1.10.6 h1:bfx3rqWgw768vn6ioxTk8pPNe4IaRzVgRlrS35B43es=
 github.com/ethereum/go-ethereum v1.10.6/go.mod h1:iY/t0vHSmaAOC+xlqvAAeHdGSWNFkfSnN0OhMTDYz90=
 github.com/fatih/color v1.3.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
